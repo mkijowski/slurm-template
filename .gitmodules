@@ -1,0 +1,3 @@
+[submodule "slurm-scripts"]
+	path = slurm-scripts
+	url = https://github.com/mkijowski/slurm-scripts
